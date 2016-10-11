@@ -4,7 +4,7 @@
 		<meta charset="utf-8"/>
 
 		<!-- add css file -->
-		<link href="css/stylesheet.css" rel="" type="" />
+		<link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
 		<title>HTML Sandbox</title>
 	</head>
 	<body>
